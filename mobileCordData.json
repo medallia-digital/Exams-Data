@@ -1,0 +1,26 @@
+[
+    {
+        "type": "alert",
+        "enabled": true,
+        "text":"Alet",
+        "body":"This is an alert"   
+    },
+    {
+        "type": "screen",
+        "enabled": true,
+        "text":"New Screen",
+        "body":"This is a new window"
+    },
+    {
+        "type": "alert",
+        "enabled": true,
+        "text":"Alert",
+        "body":"This is a different alert"
+    },
+    {
+        "type": "alertSheet",
+        "enabled": true,
+        "text":"AlertSheet",
+        "body":"This is an alert sheet"
+    }
+]
