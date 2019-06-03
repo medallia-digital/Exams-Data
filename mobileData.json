@@ -1,0 +1,58 @@
+[
+    {
+        "type": "alert",
+        "enabled": true,
+        "text":"Alet",
+        "body":"This is an alert",
+        "priority": 10,
+        "valid_days": [
+            0,
+            1,
+            3
+        ],
+        "cool_down": 86400000
+    },
+    {
+        "type": "screen",
+        "enabled": true,
+        "text":"New Screen",
+        "body":"This is a new window",
+        "priority": 14,
+        "valid_days": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "cool_down": 3600000
+    },
+    {
+        "type": "alert",
+        "enabled": true,
+        "text":"Alert",
+        "body":"This is a different alert",
+        "priority": 12,
+        "valid_days": [
+            2,
+            4,
+            5
+        ],
+        "cool_down": 1000
+    },
+    {
+        "type": "alertSheet",
+        "enabled": true,
+        "text":"AlertSheet",
+        "body":"This is an alert sheet",
+        "priority": 7,
+        "valid_days": [
+            1,
+            2,
+            6
+        ],
+        "cool_down": 60000
+    }
+]
