@@ -8,7 +8,7 @@
       "id": "cec0ba4c-8d0f-11e9-bc42-526af7764f64",
       "type": "alert",
       "enabled": true,
-      "text": "Alet",
+      "text": "Alert",
       "body": "This is an alert2",
       "priority": 14,
       "valid_days": [
